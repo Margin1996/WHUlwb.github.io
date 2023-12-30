@@ -4,7 +4,6 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
 I am currently a Ph.D student at LIESMARS, Wuhan University, advised by Prof. Kaimin Sun. I received my M.S. in Computer Technology from Wuhan University in 2020, advised by A.P. Hua Zou.
 I obtained B.S. degree from the School of Science, Nanjing University of Posts & Telecommunications (NUPT), Nanjing, China, in 2018.
 
