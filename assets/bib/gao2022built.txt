@@ -1,0 +1,10 @@
+@article{gao2022built,
+  title={Built-up area change detection using multi-task network with object-level refinement},
+  author={Gao, Song and Li, Wangbin and Sun, Kaimin and Wei, Jinjiang and Chen, Yepei and Wang, Xuan},
+  journal={Remote Sensing},
+  volume={14},
+  number={4},
+  pages={957},
+  year={2022},
+  publisher={MDPI}
+}

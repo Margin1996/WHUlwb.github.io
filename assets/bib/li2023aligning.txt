@@ -1,0 +1,9 @@
+@article{li2023aligning,
+  title={Aligning semantic distribution in fusing optical and SAR images for land use classification},
+  author={Li, Wangbin and Sun, Kaimin and Li, Wenzhuo and Wei, Jinjiang and Miao, Shunxia and Gao, Song and Zhou, Qinhui},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={199},
+  pages={272--288},
+  year={2023},
+  publisher={Elsevier}
+}

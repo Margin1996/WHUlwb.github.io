@@ -1,0 +1,9 @@
+@article{li2022extracting,
+  title={Extracting buildings from high-resolution remote sensing images by deep ConvNets equipped with structural-cue-guided feature alignment},
+  author={Li, Wangbin and Sun, Kaimin and Zhao, Hepeng and Li, Wenzhuo and Wei, Jinjiang and Gao, Song},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={113},
+  pages={102970},
+  year={2022},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{li2021pcnet,
+  title={PCNet: Cloud Detection in FY-3D True-Color Imagery Using Multi-Scale Pyramid Contextual Information},
+  author={Li, Wangbin and Sun, Kaimin and Du, Zhuotong and Hu, Xiuqing and Li, Wenzhuo and Wei, Jinjiang and Gao, Song},
+  journal={Remote Sensing},
+  volume={13},
+  number={18},
+  pages={3670},
+  year={2021},
+  publisher={MDPI}
+}
