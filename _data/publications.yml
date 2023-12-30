@@ -4,10 +4,10 @@ main:
     authors: <strong>Wangbin Li</strong>, Kaimin Sun, Wenzhuo Li*, Xiao Huang, Jinjiang Wei, Yepei Chen, Wei Cui, Xueyu Chen, Xianwei Lv
     conference_short: ISPRS. J
     conference: ISPRS Journal of Photogrammetry and Remote Sensing <strong>(ISPRS. J)</strong>.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/WHUlwb/Assisted_learning
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/Assist.png
 
   - title: "Aligning semantic distribution in fusing optical and SAR images for land use classification"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun*, Wenzhuo Li*, Jinjiang Wei, Shunxia Miao, Song Gao, Qinhui Zhou
@@ -16,31 +16,31 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0924271623000977
     code: https://github.com/WHUlwb/ASD
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lvPRSHQLvNMJ:scholar.google.com/&output=citation&scisdr=ClE-wrNSENvK5yzmLhU:AFWwaeYAAAAAZY_gNhX_EQXfjqkZaVdKzrydXwQ&scisig=AFWwaeYAAAAAZY_gNrJpWbFhaCzt3rxcpHfUMnA&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/ASD.png
 
   - title: "Extracting buildings from high-resolution remote sensing images by deep ConvNets equipped with structural-cue-guided feature alignment"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun*, Hepeng Zhao, Wenzhuo Li, Jinjiang Wei, Song Gao
     conference_short: JAG
     conference: International Journal of Applied Earth Observation and Geoinformation <strong>(JAG)</strong>.
     pdf: https://www.sciencedirect.com/science/article/pii/S1569843222001637
-    code: https://github.com/WHUlwb/Assisted_learning
+    # code: https://github.com/WHUlwb/Assisted_learning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:bw0T00HNZVAJ:scholar.google.com/&output=citation&scisdr=ClE-wrNSENvK5yzmoNo:AFWwaeYAAAAAZY_guNoC9sHnL2XboVq8tcdPbMw&scisig=AFWwaeYAAAAAZY_guJF92yETTfWUAVPZw4ftJP0&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/JAG.jpg
 
   - title: "PCNet: Cloud Detection in FY-3D True-Color Imagery Using Multi-Scale Pyramid Contextual Information"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun*, Zhuotong Du, Xiuqing Hu, Wenzhuo Li, Jinjiang Wei, Song Gao
     conference_short: RS
     conference: Remote Sensing <strong>(RS)</strong>.
     pdf: https://www.mdpi.com/2072-4292/13/18/3670
-    code: https://github.com/WHUlwb/ASD
+    # code: https://github.com/WHUlwb/ASD
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2ly-pwuMf-QJ:scholar.google.com/&output=citation&scisdr=ClE-wrNSENvK5yznMQ4:AFWwaeYAAAAAZY_hKQ5ihxHDTajQG43ikJGK9Ak&scisig=AFWwaeYAAAAAZY_hKfutShOoQSXSLy9JVkVq0ac&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/cloud.png
 
   - title: "Built-Up Area Change Detection Using Multi-Task Network with Object-Level Refinement"
     authors: Song Gao†, <strong>Wangbin Li†</strong>, Kaimin Sun*, Jinjiang Wei, Yepei Chen, Xuan Wang († means equal contributions)
     conference_short: RS
     conference: Remote Sensing <strong>(RS)</strong>.
     pdf: https://www.mdpi.com/2072-4292/14/4/957
-    code: https://github.com/WHUlwb/ASD
+    # code: https://github.com/WHUlwb/ASD
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4DK4X3fqw_sJ:scholar.google.com/&output=citation&scisdr=ClE-wrNSENvK5yznrbM:AFWwaeYAAAAAZY_htbM7evGKQJYaewZki5U_ueg&scisig=AFWwaeYAAAAAZY_htSVxEFIfLqlIsr1JD5ONFwE&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/building_change_detection.png
