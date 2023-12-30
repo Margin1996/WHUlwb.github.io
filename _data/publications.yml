@@ -8,7 +8,8 @@ main:
     code: https://github.com/WHUlwb/Assisted_learning
     bibtex: ./assets/bib/assist_learning.txt
     image: ./assets/img/Assist.png
-
+    notes: SCI Q1 Top, ranking it 1 out of 50 in Geography, Physical
+    
   - title: "Aligning semantic distribution in fusing optical and SAR images for land use classification"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun*, Wenzhuo Li*, Jinjiang Wei, Shunxia Miao, Song Gao, Qinhui Zhou
     conference_short: ISPRS. J
@@ -17,7 +18,8 @@ main:
     code: https://github.com/WHUlwb/ASD
     bibtex: ./assets/bib/li2023aligning.txt
     image: ./assets/img/ASD.png
-
+    notes: SCI Q1 Top, ranking it 1 out of 50 in Geography, Physical
+    
   - title: "Extracting buildings from high-resolution remote sensing images by deep ConvNets equipped with structural-cue-guided feature alignment"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun*, Hepeng Zhao, Wenzhuo Li, Jinjiang Wei, Song Gao
     conference_short: JAG
@@ -26,7 +28,8 @@ main:
     # code: https://github.com/WHUlwb/Assisted_learning
     bibtex: ./assets/bib/li2022extracting.txt
     image: ./assets/img/JAG.jpg
-
+    notes: SCI Q1 Top
+    
   - title: "PCNet: Cloud Detection in FY-3D True-Color Imagery Using Multi-Scale Pyramid Contextual Information"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun*, Zhuotong Du, Xiuqing Hu, Wenzhuo Li, Jinjiang Wei, Song Gao
     conference_short: RS
@@ -35,7 +38,7 @@ main:
     # code: https://github.com/WHUlwb/ASD
     bibtex: ./assets/bib/li2021pcnet.txt
     image: ./assets/img/cloud.png
-
+    
   - title: "Built-Up Area Change Detection Using Multi-Task Network with Object-Level Refinement"
     authors: Song Gao†, <strong>Wangbin Li†</strong>, Kaimin Sun*, Jinjiang Wei, Yepei Chen, Xuan Wang († means equal contributions)
     conference_short: RS
