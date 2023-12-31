@@ -6,13 +6,13 @@ email: lwb1996 (at) whu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Wangbin Li's Homepage
+keywords: Wangbin Li's Homepage(李王斌的个人主页)
 description: Li Wangbin's Personal Homepage.
-canonical: https://whulwb.github.io/
+canonical: https://www.wangbinli.cn
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=QLz82xoAAAAJ
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/WHUlwb
 # linkedin: https://www.linkedin.com/
