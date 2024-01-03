@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D student at LIESMARS, Wuhan University, advised by Prof. [Kaimin Sun](http://jszy.whu.edu.cn/sunkaimin/zh_CN/index/259357/list/index.htm). I received my M.S. in Computer Technology from Wuhan University in 2020, advised by A.P. Hua Zou. I obtained B.S. degree from the School of Science, Nanjing University of Posts & Telecommunications (NUPT), Nanjing, China, in 2018.
+I am currently a Ph.D student at LIESMARS, Wuhan University, supervised by Prof. [Kaimin Sun](http://jszy.whu.edu.cn/sunkaimin/zh_CN/index/259357/list/index.htm). I received my M.S. in Computer Technology from Wuhan University in 2020, supervised by Prof. Hua Zou. I obtained B.S. degree from the School of Science, Nanjing University of Posts & Telecommunications (NUPT), Nanjing, China, in 2018.
 
 My research interest is in **Earth vision** and **Intelligent Environmental Monitoring**, especially **multi-modal** and **multi-temporal** remote sensing image analysis. My research goal is to design original and insightful technologies to make high positive impacts on the geoscience field.
 
