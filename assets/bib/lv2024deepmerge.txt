@@ -1,0 +1,8 @@
+@misc{lv2024deepmerge,
+      title={DeepMerge: Deep-Learning-Based Region-Merging for Image Segmentation}, 
+      author={Xianwei Lv and Claudio Persello and Wangbin Li and Xiao Huang and Dongping Ming and Alfred Stein},
+      year={2024},
+      eprint={2305.19787},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
