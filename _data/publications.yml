@@ -1,5 +1,15 @@
 main:
 
+  - title: "Deep Merge: Deep-learning-based Region Merging for Remote Sensing Image Segmentation"
+    authors: Xianwei Lv, Claudio Persello, <strong>Wangbin Li*</strong>, Xiao Huang, Dongping Ming, Alfred Stein
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/pdf/2305.19787.pdf
+    code: https://github.com/lvxianwei/DeepMerge
+    bibtex: ./assets/bib/lv2024deepmerge.txt
+    image: ./assets/img/deepmerge.png
+    # notes: SCI Q1 Top, ranking it 1 out of 50 in Geography, Physical
+    
   - title: "Assisted learning for land use classification: The important role of semantic correlation between heterogeneous images"
     authors: <strong>Wangbin Li</strong>, Kaimin Sun, Wenzhuo Li*, Xiao Huang, Jinjiang Wei, Yepei Chen, Wei Cui, Xueyu Chen, Xianwei Lv
     conference_short: ISPRS. J
