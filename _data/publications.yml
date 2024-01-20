@@ -14,7 +14,7 @@ main:
     authors: <strong>Wangbin Li</strong>, Kaimin Sun, Wenzhuo Li*, Xiao Huang, Jinjiang Wei, Yepei Chen, Wei Cui, Xueyu Chen, Xianwei Lv
     conference_short: ISPRS. J
     conference: ISPRS Journal of Photogrammetry and Remote Sensing <strong>(ISPRS. J)</strong>.
-    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    pdf: https://doi.org/10.1016/j.isprsjprs.2023.11.026
     code: https://github.com/WHUlwb/Assisted_learning
     bibtex: ./assets/bib/assist_learning.txt
     image: ./assets/img/Assist.png
