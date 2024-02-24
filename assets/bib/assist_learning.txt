@@ -1,0 +1,9 @@
+@article{li2024assisted,
+  title={Assisted learning for land use classification: The important role of semantic correlation between heterogeneous images},
+  author={Li, Wangbin and Sun, Kaimin and Li, Wenzhuo and Huang, Xiao and Wei, Jinjiang and Chen, Yepei and Cui, Wei and Chen, Xueyu and Lv, Xianwei},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={208},
+  pages={158--175},
+  year={2024},
+  publisher={Elsevier}
+}
