@@ -8,6 +8,8 @@ I am currently a Ph.D student at LIESMARS, Wuhan University, supervised by Prof.
 
 My research interest is in **Earth vision** and **Intelligent Environmental Monitoring**, especially **multi-modal** and **multi-temporal** remote sensing image analysis. My research goal is to design original and insightful technologies to make high positive impacts on the geoscience field.
 
+**My CV is [here](https://www.wangbinli.cn/assets/files/CV_WangbinLi.pdf).**
+
 <font color="#e74d3c">I am seeking postdoctoral positions related to Computer Vision, Multimodal Learning, and Intelligent Earth Vision. Please feel free to contact me if you are interested.</font>
 
 <br/> <!-- 插入一个空行 -->
