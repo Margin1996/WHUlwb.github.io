@@ -10,8 +10,6 @@ My research interest is in **Earth vision** and **Intelligent Environmental Moni
 
 **My CV is [here](https://www.wangbinli.cn/assets/files/CV_WangbinLi.pdf).**
 
-<font color="#e74d3c">I am seeking postdoctoral positions related to Computer Vision, Multimodal Learning, and Intelligent Earth Vision. Please feel free to contact me if you are interested.</font>
-
 <br/> <!-- 插入一个空行 -->
 
 ## Research Interests
