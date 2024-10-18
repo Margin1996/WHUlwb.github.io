@@ -10,8 +10,6 @@ My research interest is in **Earth vision** and **Intelligent Environmental Moni
 
 **My CV is [here](https://www.wangbinli.cn/assets/files/CV_WangbinLi.pdf).**
 
-<br/> <!-- 插入一个空行 -->
-
 ## Research Interests
 
 - **Computer Vision:** Semantic Segmentation, Change Detection, Image Generation, Domain Adaptation
