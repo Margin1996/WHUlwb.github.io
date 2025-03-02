@@ -3,7 +3,7 @@ main:
   - title: "Deep Merge: Deep-learning-based Region Merging for Remote Sensing Image Segmentation"
     authors: Xianwei Lv, Claudio Persello, <strong>Wangbin Li*</strong>, Xiao Huang, Dongping Ming, Alfred Stein
     conference_short: TGRS
-    conference: IEEE Transactions on Geoscience and Remote Sensing
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>.
     pdf: https://ieeexplore.ieee.org/document/10900563
     code: https://github.com/lvxianwei/DeepMerge
     bibtex: ./assets/bib/lv2024deepmerge.txt
