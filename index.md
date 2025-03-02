@@ -18,6 +18,7 @@ My research interest is in **Earth vision** and **Intelligent Environmental Moni
 
 ## News
 
+- **[Mar. 2025]** Our paper about superpixel segmentation is accepted to TGRS.
 - **[Dec. 2023]** Our paper about land use and land cover joint heterogeneous image is accepted to ISPRS J.
 - **[Dec. 2023]** I will go to teach at the Northeastern University at Qinhuangdao.
 - **[Apr. 2023]** Our paper about land use and land cover joint heterogeneous image is accepted to ISPRS J.
